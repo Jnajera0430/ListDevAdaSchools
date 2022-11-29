@@ -15,8 +15,9 @@ function App() {
         </Box>
         <Spacer />
         <ButtonGroup gap='2'>
-        <Link to='/home'> <Button colorScheme='teal'> Home  </Button></Link>
+        <Link to='/'> <Button colorScheme='teal'> Home  </Button></Link>
         <Link to='/about'><Button colorScheme='teal'>About </Button></Link>
+        <Link to='/contact'> <Button colorScheme='teal'> Contact  </Button></Link>
         </ButtonGroup>
       </Flex>
       <nav>    
