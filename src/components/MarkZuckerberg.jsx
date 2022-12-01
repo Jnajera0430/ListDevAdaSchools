@@ -5,7 +5,7 @@ function MarkZuckerberg() {
   return (
     <>
       <div className='contenedor-img'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/1024px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg" />
       </div>
       <article>
         <h2>Mark Zuckerberg</h2>
